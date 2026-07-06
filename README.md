@@ -3,7 +3,7 @@
 
 An interactive Power BI dashboard designed to monitor sales performance, identify business trends, and provide actionable insights using the AdventureWorks dataset.
 
-### Dashboard Preview
+## Dashboard Preview
 
 The image below shows a preview of the dashboard. For a detailed view, please open the [PDF]() version.
 <br>
@@ -12,11 +12,11 @@ The image below shows a preview of the dashboard. For a detailed view, please op
 
 This interactive dashboard provides an overview of AdventureWorks' sales performance by analyzing revenue, orders, returns, product performance, profitability, and geographical distribution. It enables users to monitor key business metrics and gain actionable insights through interactive visualizations.
 
-### Problem Statement
+## Problem Statement
 
 AdventureWorks generates sales data from multiple products, customers, and countries. Without a centralized dashboard, it is difficult to monitor overall business performance, identify sales trends, evaluate product performance, and compare performance across different markets. This dashboard was developed to transform raw sales data into meaningful insights that support better business decision-making.
 
-### Business Questions
+## Business Questions
 
 This dashboard is designed to answer the following questions:
 
@@ -29,10 +29,10 @@ This dashboard is designed to answer the following questions:
 - How is profit distributed across different countries?
 - Which country contributes the highest number of orders?
 
-### Data Understanding & Preparation
+## Data Understanding & Preparation
 
 The dashboard uses the AdventureWorks Sales Dataset, which contains transactional sales data from multiple countries, customers, and product categories.
-View Full [Dataset]()
+View Full [Dataset](https://github.com/nabilahnovra06/AdventureWorks-Sales-Performance-Dashboard/tree/main/dataset)
 
 Data Preparation
 
