@@ -45,3 +45,14 @@ Creating relationships between related tables.
 Creating DAX measures for key performance indicators (Total Revenue, Total Orders, and Total Return Items).
 
 The dataset required minimal data cleaning because it was already well-structured for analysis.
+
+## Analysis Process
+
+The dashboard uses several visualizations to answer the business questions. Below is a detailed explanation of each visualization.
+
+#### **Key Performance Indicators (KPIs)**
+
+![KPIs](detaildashboard/kpi.png)
+
+
+
