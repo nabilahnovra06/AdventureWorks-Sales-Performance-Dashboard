@@ -5,7 +5,7 @@ An interactive Power BI dashboard designed to monitor sales performance, identif
 
 ## Dashboard Preview
 
-The image below shows a preview of the dashboard. For a detailed view, please open the [PDF]() version.
+The image below shows a preview of the dashboard. For a detailed view, please open the [PDF](https://github.com/nabilahnovra06/AdventureWorks-Sales-Performance-Dashboard/blob/main/assignment%20day%2027%20dashboard.pdf) version.
 <br>
 
 ![Dashboard Preview](dashboard.png)
